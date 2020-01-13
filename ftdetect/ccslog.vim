@@ -1,1 +1,1 @@
-au BufNewFile,BufRead *.{log} set filetype=ccslog
+au BufNewFile,BufRead *.{log,err,out} set filetype=ccslog
